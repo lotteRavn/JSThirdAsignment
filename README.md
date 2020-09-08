@@ -6,7 +6,7 @@ For node assignments please put the line(s)
 node_modules/
 
 into your .gitignore file.
-Send a mail to <nmla@iba.dk> with:
+Send a mail to  with:
 
 The word 'handin' in the subject line of your mail
 The url of your repo(s).
